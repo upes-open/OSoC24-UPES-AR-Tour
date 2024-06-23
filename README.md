@@ -63,7 +63,7 @@
 5. All the discussion has to be performed on the [Discord](https://discord.com/invite/C6Zbecdz) sever or [GitHub](https://github.com/upes-open).
 6. Raising and solving a self issue will not be considered as legit contribution. Read [Innovation Center](#inovation-center)
 
-## Inovation Center
+## Innovation Center
 > If a contributor has to introduce a new feature that is not mentioned in the issues, the conrributor has to discuss the feature with the repository maintainer. The maintainer will raise the issue and assign it to the respective contributor.
 
 ## Help center
