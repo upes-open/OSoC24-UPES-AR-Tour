@@ -36,7 +36,7 @@
 1. Create a fork on the repository
 2. Clone the forked repository 
     ```zsh
-    git clone <repo_link>
+    git clone <https://github.com/upes-open/UPES-AR-Tour.git>
     ```
 3. Open the cloned repository in your desired code editor (eg: VS Code, Zed, Sublime Text)
 
