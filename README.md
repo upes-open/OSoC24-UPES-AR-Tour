@@ -6,7 +6,9 @@
 </div>
 
 <!-- > Project Description -->
-> An AR project that uses Google's GeoSpatial Creator
+> The UPES AR Tour project aims to transform campus visits for prospective students and families using augmented reality (AR). Traditional tours can be tiring and inconvenient, but our AR experience offers an immersive, self-paced exploration of our university campus.
+> Visitors can use smartphones or tablets to view the campus through AR, which overlays digital information onto the physical environment. As they explore, the AR app creates popups, indicating their respective schools and providing key details about the infrastructure.
+> This innovative approach enhances the visitor experience by providing easy access to information without a physical guide. Utilizing Google's Geospatial Creator inside Unity Engine, we ensure precise placement of AR tags and anchors, offering a seamless and accurate augmented reality experience. The UPES AR Tour is designed to be engaging, informative, and convenient for all visitors.
 
 <h2>Technology Stack</h2>
 
