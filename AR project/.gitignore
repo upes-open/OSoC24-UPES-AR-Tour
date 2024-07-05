@@ -36,3 +36,7 @@ sysinfo.txt
 # Ignore the following files created by the user
 *.orig
 *.patch
+
+# Ignore Visual Studio and VS Code directories
+.vs/
+.vscode/
