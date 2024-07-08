@@ -5,6 +5,8 @@
 
 </div>
 
+![Alt](https://repobeats.axiom.co/api/embed/2854fc2941a6270f0756bce6a8a46d26881fb348.svg "Repobeats analytics image"
+
 <!-- > Project Description -->
 > The UPES AR Tour project aims to transform campus visits for prospective students and families using augmented reality (AR). Traditional tours can be tiring and inconvenient, but our AR experience offers an immersive, self-paced exploration of our university campus.
 > Visitors can use smartphones or tablets to view the campus through AR, which overlays digital information onto the physical environment. As they explore, the AR app creates popups, indicating their respective schools and providing key details about the infrastructure.
